@@ -29,7 +29,7 @@ Para visualizar e executar os notebooks, você pode usar o Jupyter Notebook ou J
 
 ### Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/Algoritmo-e-Estrutura-de-Dados-1.git
+git clone https://github.com/kaiqu3santos/Algoritmo-e-Estrutura-de-Dados-1.git
 cd Algoritmo-e-Estrutura-de-Dados-1
 ```
 ### Crie um ambiente virtual (opcional, mas recomendado):
