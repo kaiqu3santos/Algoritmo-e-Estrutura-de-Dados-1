@@ -18,10 +18,9 @@ Este repositório contém implementações de várias estruturas de dados import
 
 Cada notebook contém a implementação completa da estrutura de dados correspondente, incluindo:
 
-1. **Definição e conceito**: Explicação teórica da estrutura de dados.
+1. **Implementação**: Implementação da estrutura de dados em python.
 2. **Métodos principais**: Funções e operações essenciais (inserção, remoção, busca, etc.).
-3. **Exemplos de uso**: Exemplos práticos de como utilizar a estrutura de dados.
-4. **Percursos e visualização**: Métodos para percorrer e visualizar a estrutura de dados.
+3. **Percursos e visualização**: Métodos para percorrer e visualizar a estrutura de dados.
 
 ## Como Usar
 
