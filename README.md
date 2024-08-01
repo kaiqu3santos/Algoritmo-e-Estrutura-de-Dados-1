@@ -31,3 +31,19 @@ Para visualizar e executar os notebooks, você pode usar o Jupyter Notebook ou J
 ```bash
 git clone https://github.com/seu-usuario/Algoritmo-e-Estrutura-de-Dados-1.git
 cd Algoritmo-e-Estrutura-de-Dados-1
+```
+### Crie um ambiente virtual (opcional, mas recomendado):
+```bash
+python -m venv venv
+source venv/bin/activate  # No Windows, use `venv\Scripts\activate`
+```
+### Instale as dependências:
+```bash
+pip install jupyter
+```
+### Inicie o Jupyter Notebook:
+```bash
+jupyter notebook
+```
+### Contribuição
+Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões para melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
